@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="627006ba-b409-4c56-9163-dbaa48926d36">
+  <producedTypes>
+    <objectType typeId="11b6b1e2-4253-4f84-9898-3e9ab057e3fa" valueTypeId="1e38c459-6ef0-454f-a72b-21378db73e6f"/>
+  </producedTypes>
+  <name>InvoicePrnt</name>
+  <synonym>
+    <key>ru</key>
+    <value>Proforma invoice</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="4a43cf01-bb8d-41b3-a69e-eea5d8461f43"/>
+  <templates uuid="70c97d4f-cf50-4d7d-aed8-34546ad1f27d">
+    <name>Инвойс</name>
+    <synonym>
+      <key>ru</key>
+      <value>Инвойс</value>
+    </synonym>
+  </templates>
+</mdclass:ExternalDataProcessor>
